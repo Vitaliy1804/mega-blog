@@ -1,3 +1,4 @@
 .root {
   color: var(--text-color-main, white);
+  text-decoration: none;
 }
